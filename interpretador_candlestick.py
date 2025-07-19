@@ -1,0 +1,3 @@
+def interpretar_patrones(ticker):
+    # ... tu lógica de análisis con talib ...
+    return lista_de_interpretaciones

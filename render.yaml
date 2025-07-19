@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: candles-app
+    env: docker
+    region: oregon
+    plan: free
